@@ -8,8 +8,8 @@ import Pin from './pin';
 
 import type {MarkerDragEvent, LngLat} from 'react-map-gl';
 
-//const TOKEN = ''; // Set your mapbox token here
-const TOKEN = 'pk.eyJ1IjoibGVpZ2hoYWxsaWRheSIsImEiOiJjaXYycWhpaGwwMGVjMnRtdWJvZXpwZGtyIn0.LXDrQGp__svQhdmx4w5k0w'; // Set your mapbox token here
+//const TOKEN = ''; // Set your mapbox token hereconst TOKEN = 'pk.eyJ1IjoibGVpZ2hoYWxsaWRheSIsImEiOiJjaXYycWhpaGwwMGVjMnRtdWJvZXpwZGtyIn0.LXDrQGp__svQhdmx4w5k0w'; // Set your mapbox token here
+const TOKEN = 'pk.eyJ1IjoidGVjaG1vYmlsZWJveCIsImEiOiJjbHhpNnlpdXMxaW5vMmtvZ3NlNzU3bDU1In0.Raq4E7gYfHmvfg70hkY_zg';
 
 
 const initialViewState = {
